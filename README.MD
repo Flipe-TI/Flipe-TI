@@ -10,7 +10,9 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-##
+
+    ##
+
 <div>
     <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
     <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
