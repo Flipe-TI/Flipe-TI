@@ -1,4 +1,5 @@
-## Olá mundo, Eu sou Felipe Gabriel. <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
+## Olá mundo, Eu sou Felipe Gabriel. 
+<img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
 <a href="https://github.com/Flipe-TI">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Flipe-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Flipe-TI&layout=compact&langs_count=8&theme=tokyonight"/>
