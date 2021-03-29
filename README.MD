@@ -20,6 +20,9 @@
     <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif">
     <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
+
+##
+
 <div>
   <a href = "mailto: felipe.suporteti@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23EA4335?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
