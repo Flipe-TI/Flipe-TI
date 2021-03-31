@@ -24,5 +24,5 @@
 ##
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-silva-ti/)](https://www.linkedin.com/in/felipe-silva-ti/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=558599808243&text=Hello!)](https://api.whatsapp.com/send?phone=558599808243&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=558599808243&text=Te vi no GitHub, tudo bom?)](https://api.whatsapp.com/send?phone=558599808243&text=Te vi no GitHub, tudo bom?)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.suporteti@hotmail.com)](mailto:felipe.suporteti@hotmail.com)
