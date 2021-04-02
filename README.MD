@@ -1,7 +1,7 @@
 ## Olá mundo, Eu sou Felipe Gabriel. 
 Estudante e amante de tecnologia, movido a café e pela força de vontade (⌐■_■)
 
-“Do. Or do not. There is no try.” - MR. Yoda <img align="center" alt="Coffe-Time" height="180" width="200" src="https://giphy.com/gifs/yoda-GnNtz3c1Ni8Ba">
+“Do. Or do not. There is no try.” - MR. Yoda <img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/GnNtz3c1Ni8Ba/giphy.gif">
 
 #
 
