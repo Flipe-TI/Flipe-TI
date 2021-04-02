@@ -1,9 +1,9 @@
 ## Olá mundo, Eu sou Felipe Gabriel. 
 Estudante e amante de tecnologia, movido a café e pela força de vontade (⌐■_■)
 
-“Do. Or do not. There is no try.” - MR. Yoda <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GnNtz3c1Ni8Ba" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/yoda-GnNtz3c1Ni8Ba">via GIPHY</a></p>
+“Do. Or do not. There is no try.” - MR. Yoda <img align="center" alt="Coffe-Time" height="180" width="200" src="https://giphy.com/gifs/yoda-GnNtz3c1Ni8Ba">
 
-##
+#
 
 <a href="https://github.com/Flipe-TI">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Flipe-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
