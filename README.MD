@@ -9,7 +9,7 @@ Estudante e amante de tecnologia, movido a café e pela força de vontade (⌐�
 
 <a href="https://github.com/Flipe-TI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flipe-TI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe-TI&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flipe-TI&langs_count=8&theme=tokyonight"/>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
