@@ -1,9 +1,9 @@
 ## Olá mundo, Eu sou Felipe Gabriel. 
 Estudante e amante de tecnologia, movido a café e pela força de vontade (⌐■_■)
-## Pensamento da Semana
-“Do. Or do not. There is no try.” - MR. Yoda 
+## Pensamento do mês
+“O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.” - MR. Oogway
 <br>
-<img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/GnNtz3c1Ni8Ba/giphy.gif">
+<img align="center" alt="Coffe-Time" height="180" width="200" src="https://media.giphy.com/media/uFhKYISJSb7RC/giphy.gif">
 
 #
 
