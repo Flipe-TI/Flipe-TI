@@ -32,8 +32,8 @@ Estudante e amante de tecnologia, movido a café e pela força de vontade (⌐�
 ##
 
 <div>
-<a href = "https://www.linkedin.com/in/felipe-silva-ti/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/felipe-silva-ti/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=558599808243&text=Te%20vi%20no%20GitHub,%20tudo%20bom?"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipe.suporteti@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipegabriel.suporteti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
 </div>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=558599808243&text=Te%20vi%20no%20GitHub,%20tudo%20bom?)](https://api.whatsapp.com/send?phone=558599808243&text=Te%20vi%20no%20GitHub,%20tudo%20bom?)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:felipe.suporteti@hotmail.com)](mailto:felipe.suporteti@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegabriel.suporteti@gmail.com)](mailto:felipegabriel.suporteti@gmail.com)
